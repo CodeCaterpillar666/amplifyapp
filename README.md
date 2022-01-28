@@ -1,3 +1,7 @@
+# amplifyapp
+Code along with AWS's tutorial -- [Deploy and Host a React Web App](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/?trk=gs_card).
+
+----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
